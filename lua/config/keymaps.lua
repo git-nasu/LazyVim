@@ -45,4 +45,4 @@ keymap.set("v", "p", '"_dp', opts)
 
 --Nvim Tree mapping
 keymap.set("n", "<Leader>t", ":NvimTreeToggle<Return>", opts)
-keymap.set("n", "<Leader>f", ":NvimTreeFindFile<Return>", opts)
+keymap.set("n", "<Leader>fg", ":NvimTreeFindFile<Return>", opts)
